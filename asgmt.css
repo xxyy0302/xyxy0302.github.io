@@ -1,0 +1,336 @@
+/* STYLE CAN USE IN ALL html */
+body {
+    background-color: #FFDFDD;
+    background-image: url("images/background.jpg");
+    background-size: 110%;
+}
+
+#logo {
+    float: left;
+    margin-right: 3em;
+    margin-left: 1.8em;
+    width: 180px;
+    height: 156px;
+}
+
+header {
+    margin-top: 3em;
+}
+
+h1 {
+    font-family: Verdana, Tahoma, sans-serif;
+    color: #583759;
+    font-size: 2.5em;
+}
+
+nav {
+    text-align: left;
+    font-weight: bold;
+    font-size: 1.2em;
+    margin-top: 2em;
+}
+
+nav a {
+    text-decoration: none;
+}
+
+nav a:link {
+    color: #5453A6;
+}
+
+nav a:visited {
+    color: #728FCE;
+}
+
+nav a:hover {
+    color: #6A0DAD;
+}
+
+main {
+    margin-top: 1.5em;
+    margin-left: 3em;
+    margin-right: 3em;
+    margin-bottom: 3em;
+    display: block;
+}
+
+p {
+    font-size: 1.1em;
+    color: #7A5DC7;
+    text-align: left;
+    margin-left: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bold;
+}
+
+h2 {
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color: #583759;
+    font-size: 1.8em;
+    margin-top: 1.5em;
+}
+
+h3 {
+    text-decoration: underline;
+    color: #550A35;
+    text-align: center;
+    font-size: 1.5em;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+h4 {
+    text-align: center;
+    color: #7A5DC7;
+    font-size: 1.2em;
+}
+
+#style2 {
+    text-decoration: underline;
+}
+
+table {
+    color: #7A5DC7;
+    font-size: large;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    border: none;
+    border-color: #CCCCFF;
+}
+
+td {
+    text-align: center;
+}
+
+tr {
+    height: 2em;
+}
+
+footer {
+    background-color: #E799A3;
+    font-size: .75em;
+    color: #C3FDB8;
+    text-align: center;
+    margin-top: 2em;
+    margin-bottom: 2em;
+}
+
+/* STYLE USE FOR home.html */
+#title {
+    margin-top: 5em;
+    height: 19em;
+    background-image: url("images/coffee bean.jpg");
+    background-repeat: repeat;
+}
+
+#coffee {
+    float: left;
+    height: 20em;
+    margin-right: 2em;
+    margin-left: 1em;
+}
+
+#style1 {
+    margin-right: 30%;
+    margin-left: -15%;
+}
+
+#Recommendation {
+    list-style-type: none;
+    color: #F79646;
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    margin-bottom: 3em;
+}
+
+#OurEnvironment {
+    font-weight: bold;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: #B87333;
+    margin-left: 5em;
+}
+
+#environment {
+    height: 17em;
+    float: right;
+    margin-right: 13em;
+}
+
+/* STYLE USE FOR menu.html */
+#drink {
+    margin-left: 27%;
+    font-style: italic;
+}
+
+#MakeCoffee {
+    float: left;
+    height: 13em;
+    margin-left: 5em;
+}
+
+#LatteArt {
+    float: left;
+    height: 13em;
+    margin-top: 14em;
+    margin-left: -19.5em;
+}
+
+#TableHeader {
+    background-color: #CCCCFF;
+}
+
+#FirstRow {
+    background-color: #DCD0FF;
+}
+
+#SecondRow {
+    background-color: #D2B9D3;
+}
+
+#dessert {
+    height: 26em;
+    float: right;
+    margin-top: 6.5em;
+    margin-right: 5em;
+    margin-left: 3em;
+}
+
+#eat {
+    margin-right: 27%;
+    font-style: italic;
+}
+
+/* STYLE USE FOR promotions.html */
+#CoffeePowder {
+    height: 16em;
+    float: right;
+    margin-top: 1em;
+    margin-right: 5em;
+}
+
+#opening {
+    margin-top: 2em;
+    margin-left: 10%;
+}
+
+ol {
+    color: #7A5DC7;
+    text-align: left;
+    margin-left: 3em;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#BirthdayDeals {
+    height: 22em;
+    float: left;
+    margin-top: 2.5em;
+    margin-left: 4em;
+    margin-right: 5em;
+    margin-bottom: 2em;
+}
+
+ul {
+    color: #7A5DC7;
+}
+
+/* STYLE USE FOR aboutus.html */
+#Special {
+    margin-bottom: 3em;
+}
+
+#table {
+    width: 50%;
+}
+
+#ContactH3 {
+    text-decoration: none;
+    margin-left: 2em;
+    margin-right: 2em;
+    margin-bottom: -0.5em;
+}
+
+#icon {
+    height: 4em;
+    width: 4em;
+    margin-bottom: 1em;
+    float: left;
+}
+
+#TakeCoffee {
+    float: right;
+    height: 7em;
+    margin-top: 2em;
+}
+
+/* STYLE USE FOR delivery.html */
+form {
+    margin-left: 15%;
+    padding-top: 1.5em;
+    padding-bottom: 1.5em;
+}
+
+label {
+    float: left;
+    display: block;
+    text-align: right;
+    width: 12em;
+    padding-right: 1em;
+    margin-left: 18%;
+}
+
+#Insert {
+    color: #6A0DAD;
+}
+
+#Name, #Address, #ContactNumber {
+    display: block;
+    margin-bottom: 2em;
+    margin-left: 8em;
+}
+
+#delivery {
+    color: #7575CF;
+    text-align: left;
+    width: 52%;
+}
+
+input {
+    margin-right: 1em;
+}
+
+#drinks {
+    margin-top: -21%;
+}
+
+#Confirm {
+    margin-top: 2em;
+    margin-left: 40%;
+}
+
+select {
+    float: right;
+    margin-right: 1.5em;
+}
+
+h3 a {
+    text-decoration: none;
+}
+
+h3 a:link {
+    color: #728FCE;
+}
+
+h3 a:hover {
+    color: #6A0DAD;
+}
+
+/* STYLE USE FOR confirm.html */
+#Reply {
+    margin-top: 3em;
+    text-align: center;
+    font-size: 2em;
+    margin-right: 4em;
+}
+
+button {
+    margin-left: 45%;
+}
